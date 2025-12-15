@@ -5,7 +5,7 @@
 [![ScriptCat](https://img.shields.io/badge/ScriptCat-脚本猫安装-4e443c.svg?logo=google-chrome&logoColor=white)](https://scriptcat.org/zh-CN/script-show-page/4727)
 [![Version](https://img.shields.io/badge/Version-1.2-blue.svg)](https://scriptcat.org/zh-CN/script-show-page/4727)
 
-**专为小雅平台打造的自动刷课工具，支持自动播放、静音、自动下一集。**
+**专为小雅平台打造的自动刷课工具。**
 
 ---
 
@@ -28,8 +28,8 @@
 2. 点击上方的 **[安装脚本]** 按钮。
 3. 在打开的页面中点击 **“安装脚本”**。
 4. 打开小雅课程页面，脚本将自动运行（右侧会出现悬浮球）。
-5. 注意！需要打开浏览器的开发者模式！
+5. 注意！需要打开浏览器的**开发者模式**！
 
 ## ⚠️ 免责声明
 
-本项目仅供技术研究和学习交流使用，请勿用于非法用途。使用本脚本产生的任何后果（包括但不限于账号异常、成绩取消等）由使用者自行承担。
+本项目仅供技术研究和学习交流使用，请勿用于非法用途。使用本脚本产生的任何后果由使用者自行承担。
