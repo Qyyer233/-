@@ -4,7 +4,6 @@
 
 [![ScriptCat](https://img.shields.io/badge/ScriptCat-脚本猫安装-4e443c.svg?logo=google-chrome&logoColor=white)](https://scriptcat.org/zh-CN/script-show-page/4727)
 [![Version](https://img.shields.io/badge/Version-1.2-blue.svg)](https://scriptcat.org/zh-CN/script-show-page/4727)
-[![License](https://img.shields.io/github/license/qy-files/xiaoya-helper)](LICENSE)
 
 **专为小雅平台打造的自动刷课工具，支持自动播放、静音、自动下一集。**
 
