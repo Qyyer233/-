@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 小雅自动刷 (Xiaoya Auto Brush)
+# 🚀 小雅自动刷
 
 [![ScriptCat](https://img.shields.io/badge/ScriptCat-脚本猫安装-4e443c.svg?logo=google-chrome&logoColor=white)](https://scriptcat.org/zh-CN/script-show-page/4727)
 [![Version](https://img.shields.io/badge/Version-1.2-blue.svg)](https://scriptcat.org/zh-CN/script-show-page/4727)
